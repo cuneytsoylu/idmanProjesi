@@ -30,7 +30,7 @@ String idmanlar="Geçerli hareketler....\n"+
              hareketler program=new hareketler(burpee,  pushup,  situp,  squat);
         System.out.println("idmanınız baslıyor.....");
 
-        Thread.sleep(3000);
+        Thread.sleep(4000);
 
 
         while (program.idmanBittiMi()==false){
